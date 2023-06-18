@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/http//PavanGITH.github.io/Word_counter/static/css/main.e6c13ad2.css",
+    "main.js": "/http//PavanGITH.github.io/Word_counter/static/js/main.fd1565fd.js",
+    "static/js/787.e8cc5339.chunk.js": "/http//PavanGITH.github.io/Word_counter/static/js/787.e8cc5339.chunk.js",
+    "index.html": "/http//PavanGITH.github.io/Word_counter/index.html",
+    "main.e6c13ad2.css.map": "/http//PavanGITH.github.io/Word_counter/static/css/main.e6c13ad2.css.map",
+    "main.fd1565fd.js.map": "/http//PavanGITH.github.io/Word_counter/static/js/main.fd1565fd.js.map",
+    "787.e8cc5339.chunk.js.map": "/http//PavanGITH.github.io/Word_counter/static/js/787.e8cc5339.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fd1565fd.js"
+  ]
+}
